@@ -44,7 +44,7 @@ To use any of the implemented algorithms, follow these steps:
 1. Clone the repository:
 
    ```shell
-   https://github.com/petkostefan/ml-algorithms-from-scratch
+   git clone https://github.com/petkostefan/ml-algorithms-from-scratch.git
    ```
 
 2. Install the required dependencies:
